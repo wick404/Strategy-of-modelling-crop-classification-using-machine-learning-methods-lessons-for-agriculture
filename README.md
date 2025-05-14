@@ -1,0 +1,1 @@
+# Strategy-of-modelling-crop-classification-using-machine-learning-methods-lessons-for-agriculture
